@@ -30,4 +30,10 @@ return [
         'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
     ],
 
+    'facebook' => [
+        'client_id' => '517050952239337',
+        'client_secret' => '3bd99964466a64d9421ef925c1ded082',
+        'redirect' => 'https://what-is-in-my-fridge.loc/login/facebook/callback',
+    ],
+
 ];
