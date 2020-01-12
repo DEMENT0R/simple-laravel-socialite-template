@@ -49506,8 +49506,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! d:\OpenServer\OSPanel\domains\what-is-in-my-fridge.loc\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! d:\OpenServer\OSPanel\domains\what-is-in-my-fridge.loc\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! D:\OpenServer\OSPanel\domains\what-is-in-my-fridge.loc\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! D:\OpenServer\OSPanel\domains\what-is-in-my-fridge.loc\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
