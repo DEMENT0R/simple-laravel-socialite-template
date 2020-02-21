@@ -10,7 +10,13 @@
                 <div class="card-body">
                     <form method="POST" action="{{ route('login') }}">
                         @csrf
-
+                        <div class="form-group">
+                            <label for="name" class="col-md-4 control-label">Login With</label>
+                            <div class="col">
+                                <a href="{{ url('login/facebook') }}" class="btn btn-primary">facebook</a>
+                            </div>
+                        </div>
+                        <hr>
                         <div class="form-group row">
                             <label for="email" class="col-md-4 col-form-label text-md-right">{{ __('E-Mail Address') }}</label>
 
