@@ -1,2 +1,2 @@
-# what-is-in-my-fridge.loc
+# simple-laravel-socialite-template
  
